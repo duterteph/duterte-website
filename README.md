@@ -11,7 +11,7 @@ No build step, no dependencies — just open `index.html` in any browser.
 npx serve .
 ```
 
-## Deploy for free
+## Deploy for freee
 
 Because the site is fully static, it can be hosted for $0 on any of these:
 
